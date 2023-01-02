@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashanaFarrier
-- 👀 I’m interested in becoming a Frontend Web Developer.
-- 🌱 I’m currently learning tips and tricks on how to improve my coding with the help of multiple online resources.
+- 👀 Frontend Web Developer with a focus on CSS, JS and React.
+- 🌱 I’m currently learning tips and tricks on how to improve my coding skills with the help of multiple online resources.
 
 
 <!---
