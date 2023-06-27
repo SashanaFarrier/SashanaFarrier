@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashanaFarrier
 - 👀 Frontend Web Developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and C#
 
 
 <!---
