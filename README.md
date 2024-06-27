@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashanaFarrier
 - 👀 Software Engineer/Frontend Web Developer
-- 🌱 I’m currently learning ASP.Net and Dependency Injection in C#
+- 🌱 Developing applications using ASP.Net and ASP.Net Core
 
 
 <!---
