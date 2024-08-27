@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashanaFarrier
 - 👀 Software Engineer/Frontend Web Developer
-- 🌱 Developing applications using ASP.Net and ASP.Net Core
+- 🌱 Developing applications using ASP.Net Core
 
 
 <!---
