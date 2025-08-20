@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sashana<br>🌱 I'm currently learning ASP.Net Core <br>😀 I'm a JavaScript and CSS lover
+👋 Hi, I’m Sashana<br>🌱 I'm currently learning ASP.Net Core <br>😀 I'm a JavaScript, CSS and .Net lover
 
 
 ## 🌐 Socials:
